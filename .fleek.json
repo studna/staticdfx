@@ -1,0 +1,9 @@
+{
+  "build": {
+    "command": "yarn && yarn build",
+    "baseDir": "build",
+    "environment": {
+      "SUCCESS_ENV": "Awesome file configuration works..."
+    } 
+  }
+}
